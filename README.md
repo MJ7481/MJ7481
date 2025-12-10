@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile. I am a member of the Global Advanced Engineering team and currently learning how to interact with GitHub, Python, and Microsoft Power Automate. 
+## Welcome to my GitHub profile. I am a member of the Global Advanced Engineering team and currently learning how to interact with GitHub, Python, C#, and Microsoft Power Automate. 
 
 <!--
 **MJ7481/MJ7481** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
